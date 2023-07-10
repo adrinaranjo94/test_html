@@ -1,2 +1,5 @@
-hola;
-adios;
+function name(params) {
+   if() {
+    {}
+   }
+}
